@@ -1,10 +1,10 @@
 ### Olá! Eu sou o  Maykon Douglas ✋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maykondrsilva@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maykondrsilva/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mrmkn)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Maykondrsilv4&show_icons=true&theme=dracula&count_private=true)
+![Maykon GitHub stats](https://github-readme-stats.vercel.app/api?username=Maykondrsilv4&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
