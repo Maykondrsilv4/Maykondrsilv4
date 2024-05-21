@@ -7,7 +7,7 @@
 
 ## 🌟 Bem-vindo ao Perfil do Maykon: Desenvolvedor back End com Paixão por Tecnologia!
 
-<img src="https://private-user-images.githubusercontent.com/168865716/328716696-46ef0a40-8905-48d1-a95f-8b4ed859be3c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYzMDg2NDcsIm5iZiI6MTcxNjMwODM0NywicGF0aCI6Ii8xNjg4NjU3MTYvMzI4NzE2Njk2LTQ2ZWYwYTQwLTg5MDUtNDhkMS1hOTVmLThiNGVkODU5YmUzYy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyMVQxNjE5MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NTgyZWY2M2VhZjBiZTFkY2YxZGMwOGU3Y2EwMzI3N2JjM2Q5NzFjMTQ1OTM2Njg5MWNkYWJiMTg2MzliNTk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.thrB8a1reKzB9enJIPn-gkB8ew58vQ99pkxVJBRkR-Q" min-width="400px" max-width="400px" width="450px" align="right">
+<img src="https://github.com/Maykondrsilv4/Maykondrsilv4/assets/127529239/1e227514-f067-408a-905f-4bfebfb939a0" min-width="400px" max-width="400px" width="450px" align="right">
 
 <section align="left">
  Olá! Me chamo Maykon Douglas e sou desenvolvedor Back End, apaixonado por programação e inovação. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia. <br> <br>
