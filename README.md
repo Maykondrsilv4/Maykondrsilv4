@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=C64BFD&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maykon;Sou+um+Estudante+por tecnologia">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=C64BFD&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maykon;Sou+um+estudante+de+tecnologia.">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
  Olá!, sou apaixonado por programação e inovação, com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia. <br> <br>
 
  - 🤓 Estou estudando Back end na **Alura**, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá.
- - 🖥️ Atualmente aprofundando meus conhecimentos em **Python** e **Docker**
+ - 🖥️ Atualmente aprofundando meus conhecimentos em **Python**.
  - 💌 Entre em contato: **Maykondrsilva@gmail.com**
  
  <a href="https://www.linkedin.com/in/maykon-douglas-/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
