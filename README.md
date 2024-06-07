@@ -5,12 +5,12 @@
 </p>
 
 
-## 🌟 Bem-vindo ao Perfil do Maykon: Desenvolvedor back End com Paixão por Tecnologia!
+## 🌟 Bem-vindo ao Perfil do Maykon
 
 <img src="https://github.com/Maykondrsilv4/Maykondrsilv4/assets/127529239/1e227514-f067-408a-905f-4bfebfb939a0" min-width="400px" max-width="400px" width="450px" align="right">
 
 <section align="left">
- Olá! Me chamo Maykon Douglas e sou estudante em Análise e Desenvolvimento de Sistemas, apaixonado por programação e inovação. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia. <br> <br>
+ Olá!, seja bem vindo(a), sou apaixonado por programação e inovação. Com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia. <br> <br>
 
  - 🤓 Estou estudando Back end na **Alura**, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá.
  - 🖥️ Atualmente aprofundando meus conhecimentos em **Python** e **Docker**
