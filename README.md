@@ -1,5 +1,3 @@
-# GitHub Snake Contribution
-
 ![snake gif](https://github.com/Maykondrsilv4/Maykondrsilv4/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌟 Bem-vindo ao Perfil do Maykon Douglas
