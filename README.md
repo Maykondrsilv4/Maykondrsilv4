@@ -6,8 +6,6 @@
 
 # 🌟 Bem-vindo ao Perfil do Maykon Douglas
 
-![snake gif](https://github.com/Maykondrsilv4/Maykondrsilv4/blob/output/github-contribution-grid-snake.gif)
-
 <img src="https://github.com/Maykondrsilv4/Maykondrsilv4/assets/127529239/1e227514-f067-408a-905f-4bfebfb939a0" min-width="400px" max-width="400px" width="450px" align="right">
 
 <section align="left">
@@ -35,3 +33,7 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-FDDE55.svg?style=for-the-badge&logo=javascript&logoColor=5D0E41" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/PYTHON-FEEFAD.svg?style=for-the-badge&logo=Python&logoColor=00224D" alt="Python">&nbsp;
 </p>
+
+## 🌱 Minhas Contribuições no GitHub
+
+![snake gif](https://github.com/Maykondrsilv4/Maykondrsilv4/blob/output/github-contribution-grid-snake.svg)
