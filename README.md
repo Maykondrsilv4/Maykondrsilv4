@@ -1,6 +1,12 @@
-![snake gif](https://github.com/Maykondrsilv4/Maykondrsilv4/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=C64BFD&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maykon;Sou+um+estudante+de+tecnologia.">
+  </a>
+</p>
 
-## 🌟 Bem-vindo ao Perfil do Maykon Douglas
+# 🌟 Bem-vindo ao Perfil do Maykon Douglas
+
+![snake gif](https://github.com/Maykondrsilv4/Maykondrsilv4/blob/output/github-contribution-grid-snake.gif)
 
 <img src="https://github.com/Maykondrsilv4/Maykondrsilv4/assets/127529239/1e227514-f067-408a-905f-4bfebfb939a0" min-width="400px" max-width="400px" width="450px" align="right">
 
@@ -15,7 +21,7 @@
 </section>
 <br>
 
- <div align="center">
+<div align="center">
    <a href="https://github.com/Maykondrsilv4">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maykondrsilv4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykondrsilv4&layout=compact&langs_count=6&theme=tokyonight"/>
