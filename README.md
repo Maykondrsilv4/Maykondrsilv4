@@ -1,9 +1,6 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=C64BFD&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maykon;Sou+um+estudante+de+tecnologia.">
-  </a>
-</p>
+# GitHub Snake Contribution
 
+![snake gif](https://github.com/Maykondrsilv4/Maykondrsilv4/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌟 Bem-vindo ao Perfil do Maykon Douglas
 
