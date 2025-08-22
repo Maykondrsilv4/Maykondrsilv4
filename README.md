@@ -9,11 +9,11 @@
 <img src="https://github.com/Maykondrsilv4/Maykondrsilv4/assets/127529239/1e227514-f067-408a-905f-4bfebfb939a0" min-width="400px" max-width="400px" width="450px" align="right">
 
 <section align="left">
- Olá!, sou apaixonado por programação e inovação, com um forte compromisso em aprimorar minhas habilidades, estou em busca de oportunidades e colaborações que impulsionem meu crescimento profissional e contribuam para a construção de uma carreira robusta em tecnologia. <br> <br>
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio e atualmente curso Desenvolvimento de Sistemas na ETEC. Tenho paixão por programação e inovação, com foco no desenvolvimento de soluções robustas e eficientes. Possuo experiência acadêmica em projetos práticos e diversas certificações pela Alura, reforçando meu compromisso com o aprendizado contínuo e com as melhores práticas da área de tecnologia. <br> <br>
 
- - 🤓 Estou estudando Back end na **Alura**, atualmente estou cursando **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá.
- - 🖥️ Atualmente aprofundando meus conhecimentos em **Python**.
- - 💌 Entre em contato: **Maykondrsilva@gmail.com**
+ - 🤓 Estudando **Desenvolvimento de Sistemas - ETEC**
+ - 🖥️ Aprofundando meus conhecimentos em **Python**
+ - 💌 Entre em contato: **maykondrsilva@gmail.com**
  
  <a href="https://www.linkedin.com/in/maykon-douglas-/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
@@ -33,4 +33,3 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-FDDE55.svg?style=for-the-badge&logo=javascript&logoColor=5D0E41" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/PYTHON-FEEFAD.svg?style=for-the-badge&logo=Python&logoColor=00224D" alt="Python">&nbsp;
 </p>
-
