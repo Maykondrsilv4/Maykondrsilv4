@@ -1,19 +1,21 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=C64BFD&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maykon;Sou+um+estudante+de+tecnologia.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=C64BFD&center=true&vCenter=true&random=false&width=650&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maykon;Auxiliar+de+Sistemas;Desenvolvimento+Web;Banco+de+Dados+com+MySQL+Workbench;Suporte+e+Implanta%C3%A7%C3%A3o+de+Sistemas" alt="Typing SVG" />
   </a>
 </p>
 
-# 🌟 Bem-vindo ao Perfil do Maykon Douglas
+# 🌟 Bem-vindo ao meu perfil
 
 <img src="https://github.com/Maykondrsilv4/Maykondrsilv4/assets/127529239/1e227514-f067-408a-905f-4bfebfb939a0" min-width="400px" max-width="400px" width="450px" align="right">
 
 <section align="left">
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio e atualmente curso Desenvolvimento de Sistemas na ETEC. Tenho paixão por programação e inovação, com foco no desenvolvimento de soluções robustas e eficientes. Possuo experiência acadêmica em projetos práticos e diversas certificações pela Alura, reforçando meu compromisso com o aprendizado contínuo e com as melhores práticas da área de tecnologia. <br> <br>
+Auxiliar de Sistemas com experiência em suporte técnico, implantação de sistemas, banco de dados e desenvolvimento web.<br> <br>
 
- - 🤓 Estudando **Desenvolvimento de Sistemas - ETEC**
- - 🖥️ Aprofundando meus conhecimentos em **Python**
- - 💌 Entre em contato: **maykondrsilva@gmail.com**
+- 💼 Atuo como Auxiliar de Sistemas
+- 🌐 Desenvolvimento Web
+- 🗄️ Manipulação e consulta de dados com MySQL Workbench
+- 🛠️ Suporte técnico e implantação de sistemas
+- 💌 Entre em contato: **maykondrsilva@gmail.com**
  
  <a href="https://www.linkedin.com/in/maykon-douglas-/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
