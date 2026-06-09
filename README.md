@@ -19,14 +19,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio
 </section>
 <br>
 
-<div align="center">
-   <a href="https://github.com/Maykondrsilv4">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maykondrsilv4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykondrsilv4&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<br> 
-
-## Linguagens 🧐
+## Linguagens 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-68D2E8.svg?style=for-the-badge&logo=HTML5&logoColor=FF204E" alt="HTML5">&nbsp;
   <img src="https://img.shields.io/badge/CSS3-68D2E8.svg?style=for-the-badge&logo=css3&logoColor=A0153E" alt="CSS3">&nbsp;
