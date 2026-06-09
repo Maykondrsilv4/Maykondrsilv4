@@ -21,10 +21,11 @@ Auxiliar de Sistemas com experiência em suporte técnico, implantação de sist
 </section>
 <br>
 
-## Linguagens 
+## 🚀 Tecnologias e Ferramentas
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-68D2E8.svg?style=for-the-badge&logo=HTML5&logoColor=FF204E" alt="HTML5">&nbsp;
   <img src="https://img.shields.io/badge/CSS3-68D2E8.svg?style=for-the-badge&logo=css3&logoColor=A0153E" alt="CSS3">&nbsp;
   <img src="https://img.shields.io/badge/JAVASCRIPT-FDDE55.svg?style=for-the-badge&logo=javascript&logoColor=5D0E41" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/PYTHON-FEEFAD.svg?style=for-the-badge&logo=Python&logoColor=00224D" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
 </p>
